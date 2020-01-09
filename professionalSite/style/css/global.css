@@ -1019,13 +1019,13 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   margin-top: 100px;
   float: left;
   width: 20%;
-  height: 120px;
-  background-image: url("../img/exp_html5.svg");
+  /* height: 120px; */
+  /* background-image: url("../img/exp_html5.svg"); */
   background-size: 100px 100px;
   background-position: 50%;
 }
 
-.experience__icon--html5 {
+/* .experience__icon--html5 {
   background-image: url("../img/exp/exp_html5.svg");
 }
 
@@ -1037,8 +1037,8 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   background-image: url("../img/exp/exp_javascript.svg");
 }
 
-.experience__icon--sass {
-  background-image: url("../img/exp/exp_sass.svg");
+.experience__icon--pythonwhite {
+  background-image: url("../img/exp/exp_pythonwhite.svg");
 }
 
 .experience__icon--jquery {
@@ -1071,7 +1071,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 
 .experience__icon--foundation {
   background-image: url("../img/exp/exp_foundation-glasses.svg");
-}
+} */
 
 .experience__icon-description {
   display: block;
@@ -1903,7 +1903,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 @media (max-width: 1300px) {
   .experience__wrapper {
     max-width: 960px;
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 120px;
   }
   .features__wrapper {
@@ -2150,7 +2150,7 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
     height: 190px;
   }
   .experience__icon {
-    width: 25%;
+    /* width: 25%; */
   }
   .section-header__subtitle {
     padding-left: 60px;
@@ -2235,10 +2235,10 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
 
 /*------------------------------------*	(max-width: 860px)
 \*------------------------------------*/
-@media (max-width: 860px) {
+/* @media (max-width: 860px) {
   .experience__icon {
     width: 33%;
-  }
+  } */
   .showcase__thumb {
     margin-left: 2.3%;
     width: 18%;
